@@ -30,8 +30,7 @@ Project Bu Nada/
 ├── .gitignore
 ├── README.md
 └── python_ecg/
-    ├── app.py              # Antarmuka web interaktif Streamlit
-    ├── core.py             # Algoritma spektrum, IDFT manual, ODE solver
+    ├── app.py              # Aplikasi utama (Algoritma spektrum, IDFT manual, ODE solver, & UI Streamlit)
     ├── requirements.txt    # Daftar dependensi Python
     └── run.ps1             # Skrip PowerShell untuk menjalankan aplikasi
 ```

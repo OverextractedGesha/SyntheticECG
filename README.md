@@ -12,7 +12,7 @@ Aplikasi simulasi dan pembangkit sinyal elektrokardiogram (ECG) sintetis interak
    - Penambahan derau putih (*white noise*) pada spektrum untuk mensimulasikan karakteristik spektrum biologis yang lebih realistis.
 3. **Modifikasi 3 - Modulasi Morfologi Gelombang (Slide 20)**:
    - Dukungan pemilihan metode modulasi faktor morfologi:
-     - **Bu Nada (5-point)**: Titik P, Q, R, S, T standar modulasi.
+     - **Modified (5-point)**: Titik P, Q, R, S, T standar modulasi.
      - **McSharry (6-point)**: Titik P, Q, R, S, T-, T+ untuk pemodelan gelombang T asimetris.
 4. **Modifikasi 4 - Solver Numerik Persamaan Diferensial Biasa (ODE)**:
    - Komparasi integrasi numerik untuk sistem dinamik 3D limit-cycle:
